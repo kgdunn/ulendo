@@ -36,3 +36,8 @@ li.toctree-l2{
 .indextable ul{
 	padding-left: 25px;
 }
+
+/* Figure captions */
+p.caption {
+    /* font-size: 100%; */
+}

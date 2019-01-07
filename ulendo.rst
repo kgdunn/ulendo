@@ -22,12 +22,23 @@
 
 1992
 
+
+.. _attention of the editor: kgdunn@gmail.com?subject=Ulendo Memoirs
+
+.. note::
+
+    Editing note: The text in the memoirs below is based completely on the original document, which can be see in the `scanned copy <Ulendo.pdf>`_. However, long paragraphs have been split into 2 or more [see page 9 in the PDF for why this is required] and minor corrections to spelling were made. Hyperlinks to Google Maps, Wikipedia and other interesting websites have been added to enhance the text. Images, where appropriate have been included too. Any contributions or changes you would like to suggest may be brought to the `attention of the editor`_.
+
 Introduction
 =======================
 
 I recall a poem that I learned in my early boyhood days which was entitled "I remember". The first line began "`I remember, I remember the house where I was born <https://www.poetryfoundation.org/poems/44387/i-remember-i-remember>`_". I cannot remember any more than that nor am I able to name the author of the poem nor the book in which it was contained but I strongly suspect that it was in the book that was in use in schools in those days and which was entitled "`Palgrave's Golden Treasury <https://en.wikipedia.org/wiki/Palgrave%27s_Golden_Treasury>`_". The reason for these remarks is simply that although I cannot remember some things, there is much that I do recollect of my early boyhood, my youth, early manhood and right through my life to this present point in time.
 
-I have often thought of setting down some of the things I can recall from my.life and more than once I have been urged to do this, but just about four months ago my wife and I were on holiday at `Springs <https://en.wikipedia.org/wiki/Springs,_Gauteng>`_ in the Transvaal staying with Grenvil, our son and his wife and family. One evening as we were talking together as a family and as will happen, some of the events of my early days came before me and I was constrained to tell some of the stories and anecdotes of the early days. My daughter in law, Jenny, said very quietly to me "Dad, you must really set down on paper for us all, a record of your memories of your early days". I pondered on this for some time and then I said to her "Jenny, you are quite right"! This set a seal to it and so I see that I must do it. Four months have rolled away and so far I have not got around to it. It seems that I have always had in mind that I must clear off all the outstanding jobs on my list before I tackle the matter of writing my memoirs. Last Saturday was 14th February, St Valentines Day and listening to the SABC radio programme I heard listeners who, in response to a broadcast invitation had written about "*The most romantic moment of my life*". My wife and I listened to this programme and it was evident to both of us that many of the stories were linked to the days of the Second World War. We looked at each other as we listened, both of us realising that we too could well have reported equally from our own experiences in those dark wartime days. One of the stories sent in by a lady which was related to those days was shown by her before submission, to her grown up children and in amazement they had said to her "Mum, why did you never tell us about this? We wish we had known all of this". This broadcast programme reinforced my resolve to get on with what our story is all about and so here I am prefacing my memoirs with this introductory chapter. In no way has my list of outstanding jobs been completed, nor will it ever be but I now realise that time will have to be set aside and specifically allocated to the task of writing. Now to the task in hand with the wish that the product will be acceptable and interesting.
+I have often thought of setting down some of the things I can recall from my.life and more than once I have been urged to do this, but just about four months ago my wife and I were on holiday at `Springs <https://en.wikipedia.org/wiki/Springs,_Gauteng>`_ in the Transvaal staying with Grenvil, our son and his wife and family. One evening as we were talking together as a family and as will happen, some of the events of my early days came before me and I was constrained to tell some of the stories and anecdotes of the early days. My daughter in law, Jenny, said very quietly to me "*Dad, you must really set down on paper for us all, a record of your memories of your early days*". I pondered on this for some time and then I said to her "*Jenny, you are quite right*"! This set a seal to it and so I see that I must do it.
+
+Four months have rolled away and so far I have not got around to it. It seems that I have always had in mind that I must clear off all the outstanding jobs on my list before I tackle the matter of writing my memoirs. Last Saturday was 14th February, St Valentines Day and listening to the SABC radio programme I heard listeners who, in response to a broadcast invitation had written about "*The most romantic moment of my life*". My wife and I listened to this programme and it was evident to both of us that many of the stories were linked to the days of the Second World War. We looked at each other as we listened, both of us realising that we too could well have reported equally from our own experiences in those dark wartime days. One of the stories sent in by a lady which was related to those days was shown by her before submission, to her grown up children and in amazement they had said to her "*Mum, why did you never tell us about this? We wish we had known all of this*". This broadcast programme reinforced my resolve to get on with what our story is all about and so here I am prefacing my memoirs with this introductory chapter.
+
+In no way has my list of outstanding jobs been completed, nor will it ever be but I now realise that time will have to be set aside and specifically allocated to the task of writing. Now to the task in hand with the wish that the product will be acceptable and interesting.
 
 I cannot begin without remembering those who have done so much for me and helped me in many ways down the avenue of the years. My own family springs to mind, my wife who has meant so much to me since 1938, our children and grandchildren, those who helped to mould and shape my life into the way of faith in God, who in Sunday School and Church, giving voluntary service led me into Christian service and activity and fellowships, all come into my mind with gratitude. Above all I must give thanks to God who is my Heavenly Father and who down the long years has led and guided and guarded us particularly down these last 43 years, for tomorrow 19 Feb 1987 is our 43rd wedding anniversary. So this is a good time to begin this work and dedicate it to the one who has been such a wonderful partner along this journey and who has loved me so faithfully and whom I love dearly.
 
@@ -130,7 +141,68 @@ It was a wonderful and interesting trip. We had good sleeping arrangements, meal
 Chapter 2: Central Africa
 =======================================
 
-Coming soon...
+
+In my reading just prior to my departure from U.K. for Nyasaland I had learned that Southern Rhodesia, Northern Rhodesia and Nyasaland were regarded as `British Central Africa <https://en.wikipedia.org/wiki/British_Central_Africa_Protectorate>`_. So as I stepped from the South African Railways passenger train which had brought me from the Cape on a never to be forgotten journey it dawned on me that I was at last in Centra] Africa and that I was about to begin the last lap of my journey to Nyasaland. I wondered if my wife back there in County Durham could visualise the scene.
+
+To me it was impressive. A large clean railways station under a clear blue sky, a temperature that warmed my bones as I began to look for my various pieces of luggage that were being brought out from the goods van. Clearance through customs was necessary although it was not difficult as was to be expected for people in transit. Here I was in `Bulawayo <https://en.wikipedia.org/wiki/Bulawayo>`_, hitherto only a name to me. I was amazed at the relaxed atmosphere, African porters taking care of luggage etc, all very cheerful and polite. My first impression on that Monday morning 5th October 1947 was very favourable.
+
+My two travelling companions and I found the bathrooms provided on the Railway Station to be very welcome and for the princely sum of one shilling we each partook of a hot bath and had our shoes cleaned. We spent the whole day in Bulawayo with a Rhodesian friend of one of my companions. I can remember how I enjoyed the time spent in the National Museum and dinner in the evening at the Palace Hotel.
+
+It was hard to stand up to the midday heat of October as we were travelling in our U.K. type clothing which was far too warm for the climate. We joined the Rhodesia Railways train at 9.00 p.m. that night all our luggage having already been loaded in the van and set off for Salisbury. We soon got our heads down and I can recall that I enjoyed the comfort of my sleeping berth. A set of train bedding was charged at two shillings in those days.
+
+About 6 a.m. we were awakened by a knock on the door of our sleeping compartment and there stood a steward in clean white uniform carrying a large kettle full of steaming hot coffee, his white uniformed African Assistant had the hot milk and the sugar. I think we paid 9 Rhodesian pence for that cup of coffee and never do I recall having such a good cup of coffee and finding it so welcome.
+
+The train hauled by `Garratt articulated locomotives <https://en.wikipedia.org/wiki/Garratt#Garratts_around_the_world>`_ steamed into Salisbury on time at 8 a.m. under a cloudless blue sky and on a very hot morning. After seeing our heavy luggage safely stored at the station with instructions for transhipment to our next train, we went into the city and booked into `Meikles Hotel <https://www.flickr.com/photos/68309522@N04/6921598402>`_ for we were not due to leave until the following evening Wednesday 7th October. The
+hotel was very comfortable and of a high standard and we were well cared for except that there was a serious water shortage in Salisbury and there were restrictions in the bathrooms.
+
+We spent two days looking around and seeing places of interest but we had to make an appointment with the Portuguese Consul in Salisbury to obtain from him visas to enable us to transit Portuguese East Africa (now called Moçambique) on our journey to Nyasaland. He found difficulty with this and we had to be very persistent. It was fortunate for us that his understanding of the English language was good. We had to show him documents relating to our appointments to the Nyasaland and Trans-Zambesia Railways and he told us to come back later. When we got back it was apparent that he had telephoned Trans-Zambesia Railways in Beira (PEA) for he presented each one of us with a short typewritten document in Portuguese which identified us as officials of the Nyasaland Railways and giving us authority to pass through `Portuguese East Africa <https://en.wikipedia.org/wiki/Portuguese_Mozambique>`_. This document in Portuguese I still have in my possession and I regard it as one of my "treasures".
+
+.. note:: Does anyone have a copy of this document?
+
+So it was that at 8 p.m. on the night of 7 October we entrained for Beira, on the Rhodesia Railways train. The coaching stock on which we were travelling went right through to `Beira <https://en.wikipedia.org/wiki/Beira,_Mozambique>`_. Next morning we awoke just before Umtali in the Eastern Highlands of Rhodesia - again the morning coffee episode was repeated with much pleasure. There was no dining car on the train nor was there a dining room at the station so all the passengers went to Brown's Hotel in Umtali for breakfast.
+
+When we rejoined the train a dining car had been included in the composition of the train for the day long journey down to Beira through the hot tropical area of Portuguese East Africa known as Manica and Sofala. Umtali looked beautiful as it lay among the mountains in the clear morning light. Our descent began almost immediately down the winding pass to what is now called Machipanda. After clearing the PEA customs and immigration the journey proceeded down a steady incline to the coastal plains and the Pungwe flats.
+
+In those days the railroad right through to Beira was owned by the Beira Mashonaland Railways (Rhodesia Railways) and the Dining car was manned by the Rhodesians as was the train staff. As the day wore on we became uncomfortably hot and thirst was ever present. The dining car service was good but we remained very conscious of how our dress was totally unsuitable for the climate. Stations named Vila Pery, Gondola, Vila Machado were passed in the course of the day as the train rolled on stopping for water and coal at different places.
+
+As evening began we passed Dondo, a place that was to become very meaningful to each of us as it formed the junction of the Trans-Zambesia Railways (from Nyasaland) with the BMR to Beira. We soon learned that TZR had an agreement with BMR for running rights between Dondo and Beira. We pulled into a very hot and humid Beira at almost 6 p.m. Here we found the Railway station facilities to be rather more primitive as we descended from the coaching stock to the track below - there were no platforms. We found ourselves with two hours in which to ensure that we were booked on the 8 p.m.
+(twice weekly) train for Nyasaland.
+
+After ensuring the safe transfer of our luggage we got on to the Nyasaland Railways coaching stock which was marshalled in Beira as part of (the later to become well known) 100 up. Settled into our sleep-compartment and with tickets for the dining car we realised that here was our first contact with the railway which was going to become very important for us in the days ahead.
+
+First impressions were not encouraging. The coaching stock and dining car were nothing like those we had experienced in South Africa and Rhodesia during the last few days and there was a general appearance of being down at heel so to speak. The dining car was manned by an European called Charlie Sharman who had a contract with Nyasaland Railways to supply a dining car and bar service.
+
+Actually the food was very good and the train bedding was quite good. It was necessary to sleep with mosquito nets tucked in on our sleeping berths but as the train trundled through the tropical night which had fallen over the thick bush of PEA we were sure of one thing - it was extremely hot and humid. Again we were greeted with coffee in our compartment when we awoke next morning. The Portuguese conductor (Sr dos Santos) explained that we were approaching Sena on the South bank of the Zambesi.
+
+We were aware of the most bright sunlight ever encountered and the heat was simply oppressive. We got to the dining car as soon as possible for there were ceiling fans there which stirred up the hot atmosphere a little bit.
+
+It was in the dining car of the Nyasaland Railways on the morning of Friday 9th October 1947 that I met a man who was to be a colleague for many years. This was Joe Robson, known as Robbie to everyone. He was a storekeeper at the main stores in Limbe, Nyasaland. He had been there 6 months.  His wife and child were living with him in Limbe having come with him from U.K. He had apparently been on duty for a week at Inhaminga on the TZR and he was returning home on the mail train. We took this opportunity lo find out as much out as much as we could about everything that we could think of concerning what lay ahead of us. He gave us fair replies to all our questions but we realised later than we all have to form our own impressions.
+
+At Sena a Nyasaland Railways locomotive and train crew took over from the TZR engine and train crew. We found this very interesting. The train was hauled by D class No 24 driver Gulam Hussein and the conductor was also an Asian named Sardar Mohamed
+who was a friendly man eager to supply us with information.
+
+Leaving Sena we passed over the lower `Zambezi bridge <https://en.wikipedia.org/wiki/Victoria_Falls_Bridge>`_. This is a very long steel bridge which was completed by the Cleveland Bridge Company of Darlington, England in 1935 - it connects the TZR with the Central African and Nyasaland Railways on the through rail route Beira to Lake Nyasa.
+
+Among my treasures I have a number of photographs of the bridge over which I was to travel many times during my life time. We were discovering that October is really the hottest month in that part of the world. The journey over the CAR from Dona Ana on the north bank of the Zambezi to Port Herald is only just over 40 miles but it took a good two hours and we were just bathed in perspiration.
+
+.. note:: Anyone have some of these photos?
+
+.. figure:: Marabou_stork_(Leptoptilos_crumenifer).jpg
+    :alt: https://en.wikipedia.org/wiki/Marabou_stork#/media/File:Marabou_stork_(Leptoptilos_crumenifer).jpg
+    :width: 300px
+    :align: right
+
+    Marabou stork (`credit <https://en.wikipedia.org/wiki/Marabou_stork#/media/File:Marabou_stork_(Leptoptilos_crumenifer).jpg>`_)
+
+Before we could leave Dona Ana we had to clear the PEA customs and immigration and our passports were now beginning to collect a few stamps. But our arrival at Port Herald was quote another matter. Here we officially entered Nyasaland and we encountered British colonial presence. This station is on the banks of the wide flowing Shire river - it is plagued with mosquitos and marabou storks.
+
+
+The coaching stock was shunted down to a siding near the river for clearance by immigration and customs. We found out later that the arrivals of the mail train at places like Dona Ana and Port Herald were real social occasions and government officials not only exercised their right to board the train to check documents and luggage but also to quench their thirst in the dining car. In those days a couple of new Europeans out from U.K. arriving in Nyasaland were rare birds and in those immediate post war days we younger ones were quickly pigeon holed by the "poo-bahs" and called "war misfits". I must confess that in those early days I wondered sometimes if it was a correct description. So the officials at Port Herald showed great interest.
+
+
+
+
+To be continued ...
 
 
 Chapter 3: First Impressions
