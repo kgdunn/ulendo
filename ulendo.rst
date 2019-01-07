@@ -196,11 +196,24 @@ Among my treasures I have a number of photographs of the bridge over which I was
 
 Before we could leave Dona Ana we had to clear the PEA customs and immigration and our passports were now beginning to collect a few stamps. But our arrival at Port Herald was quote another matter. Here we officially entered Nyasaland and we encountered British colonial presence. This station is on the banks of the wide flowing Shire river - it is plagued with mosquitos and marabou storks.
 
-
 The coaching stock was shunted down to a siding near the river for clearance by immigration and customs. We found out later that the arrivals of the mail train at places like Dona Ana and Port Herald were real social occasions and government officials not only exercised their right to board the train to check documents and luggage but also to quench their thirst in the dining car. In those days a couple of new Europeans out from U.K. arriving in Nyasaland were rare birds and in those immediate post war days we younger ones were quickly pigeon holed by the "poo-bahs" and called "war misfits". I must confess that in those early days I wondered sometimes if it was a correct description. So the officials at Port Herald showed great interest.
 
+Our train began its journey northwards and after 2 and a half hours we crossed the Shire River bridge at Chiromo. All that could be said was that there was a cotton ginnery there and that it was jolly hot and humid. An hour later came Sankulani, coal and water, a banking engine attached and then the climb up the escarpment. As the ascent progressed we became accustomed to the screaming of wheel flanges on tight curves, of beautiful scenery changing at every turn of the line and a slow cooling off in the temperature.
 
+Sometimes the view from a carriage window would be that of the two locomotives hauling the train appearing to be almost alongside and above the carriage but actually struggling on the other side of a very tight curve on a steep gradient. This section from Sankulani to Limbe was so far as I can remember about 66 miles but it took a long time to make it. The gradients and curves were difficult and the stops for water were time consuming.
 
+Almost every up train had to be banked so in those days of steam it meant two locos to be coaled and watered. The mountain scenery became very impressive and as it got cooler we began to feel a bit more optimistic. The train got into Limbe almost on time, we got off, luggage came off and journey's end arrived at 5.30 p.m. Friday 9 October 1947, more than 4 weeks after leaving Tilbury.
+
+I was met by a railwayman called Harry Dawes who took me to his two roomed home (part of a Railway house) and showed me one room that was part of the same railway house, which was allocated to me. It contained a camp bed and mosquito net and a very ancient chest of drawers and a water filter (part of life when the water came from wells in those days). My trunks and suit case fitted into this large room very easily. Harry Dawes told me that I could get a meal at the Limbe Hotel and that there was another room containing a galvanised bath next door to my room.
+
+In next to no time an African pitched up. His name was James and he agreed to be my personal "boy" for 16/- per month and 1/-
+per week poso (food money). It wasn't clear what work he would do for me with such primitive living conditions but I soon found out that he could be very useful, I had been told I would need a boy and as soon as that I found I had one.
+
+Very quickly he found a 4 gallon petrol tin with a wire handle, pumped water from the well, filled the tin and heated it over someone's stove and made a bath for me. It was great to have a bath not having had one since leaving Salisbury 48 hours earlier and having really experienced travel in intense heat and humidity.
+
+With my trunk unpacked I looked for a wardrobe to hang such as I had but found none. Those were the days when wartime experience still lingered with me and improvisation came easy to me. I found a hook on one wall of the room, on the opposite side the window had burglar bars (like those of a prison) and the rope that had been slung around my trunk now found itself slung from hook to burglar bars
+and carrying my few belongings including my `demob suit <https://en.wikipedia.org/wiki/Demob_suit>`_ although I realised that in this climate it would be. of little use. Oh, I forgot there was also a basket
+chair in the room (they cost 3/6 in those days) so having got my things unpacked and feeling better for a bath I sat down and surveyed my new "home" in the light of a very faint electric light bulb dangling from the ceiling. I wondered if I was seeing things - to think I had sold up a nice home in U.K. and left my wife behind for this! I could only think that the rewards must be very great and I must admit that at first it did not appear so. However the need for food and refreshment needed attention.
 
 To be continued ...
 
