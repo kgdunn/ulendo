@@ -200,6 +200,12 @@ The coaching stock was shunted down to a siding near the river for clearance by 
 
 Our train began its journey northwards and after 2 and a half hours we crossed the Shire River bridge at Chiromo. All that could be said was that there was a cotton ginnery there and that it was jolly hot and humid. An hour later came Sankulani, coal and water, a banking engine attached and then the climb up the escarpment. As the ascent progressed we became accustomed to the screaming of wheel flanges on tight curves, of beautiful scenery changing at every turn of the line and a slow cooling off in the temperature.
 
+.. figure:: 7328996510_709909ba84_k.jpg
+	:align: right
+
+	View across the Shire river (`Photo credit <https://www.flickr.com/photos/davies/7328996510>`_)
+
+
 Sometimes the view from a carriage window would be that of the two locomotives hauling the train appearing to be almost alongside and above the carriage but actually struggling on the other side of a very tight curve on a steep gradient. This section from Sankulani to Limbe was so far as I can remember about 66 miles but it took a long time to make it. The gradients and curves were difficult and the stops for water were time consuming.
 
 Almost every up train had to be banked so in those days of steam it meant two locos to be coaled and watered. The mountain scenery became very impressive and as it got cooler we began to feel a bit more optimistic. The train got into Limbe almost on time, we got off, luggage came off and journey's end arrived at 5.30 p.m. Friday 9 October 1947, more than 4 weeks after leaving Tilbury.
@@ -212,17 +218,92 @@ per week poso (food money). It wasn't clear what work he would do for me with su
 Very quickly he found a 4 gallon petrol tin with a wire handle, pumped water from the well, filled the tin and heated it over someone's stove and made a bath for me. It was great to have a bath not having had one since leaving Salisbury 48 hours earlier and having really experienced travel in intense heat and humidity.
 
 With my trunk unpacked I looked for a wardrobe to hang such as I had but found none. Those were the days when wartime experience still lingered with me and improvisation came easy to me. I found a hook on one wall of the room, on the opposite side the window had burglar bars (like those of a prison) and the rope that had been slung around my trunk now found itself slung from hook to burglar bars
-and carrying my few belongings including my `demob suit <https://en.wikipedia.org/wiki/Demob_suit>`_ although I realised that in this climate it would be. of little use. Oh, I forgot there was also a basket
-chair in the room (they cost 3/6 in those days) so having got my things unpacked and feeling better for a bath I sat down and surveyed my new "home" in the light of a very faint electric light bulb dangling from the ceiling. I wondered if I was seeing things - to think I had sold up a nice home in U.K. and left my wife behind for this! I could only think that the rewards must be very great and I must admit that at first it did not appear so. However the need for food and refreshment needed attention.
+and carrying my few belongings including my `demob suit <https://en.wikipedia.org/wiki/Demob_suit>`_ although I realised that in this climate it would be. of little use.
 
-To be continued ...
+Oh, I forgot there was also a basket chair in the room (they cost 3/6 in those days) so having got my things unpacked and feeling better for a bath I sat down and surveyed my new "home" in the light of a very faint electric light bulb dangling from the ceiling. I wondered if I was seeing things - to think I had sold up a nice home in U.K. and left my wife behind for this! I could only think that the rewards must be very great and I must admit that at first it did not appear so. However the need for food and refreshment needed attention.
 
 
 Chapter 3: First Impressions
 =======================================
 
-Coming soon...
+I was beginning to get apprehensive that Friday evening of my arrival. I was staggered at the apparent dearth of housing accommodation. In London we had been told of company "houses" and we had hoped for a reasonable life style. My one room, tin bath and no kitchen situation was worrying. However the immediate need was for an evening meal.
 
+Harry Dawes took me to the Limbe Hotel, a double storey barrack type of building in a very moderate state of repair. He introduced me to the manager, a man named Jerry Parham and told him that I would require to be booked in as a "table boarder". I partook of the evening meal which was quite good and reasonably priced.
+
+I was soon back to my room in House No. 1 and into my camp bed and mosquito net but sleep was very hard to come by, for this house was located beside the Railway shunting yard and Loco sheds. The night noises were certainly not those of the Central African bush. When dawn came James appeared. Somewhere he had "borrowed" a cup of tea for me and this was really most welcome. He produced hot water and poured it into an enamel basin and I soon had a shave and refreshed I sallied forth to Limbe Hotel for breakfast. Here again I found the meal good.
+
+Now for business! Harry Dawes took me over the Railway tracks to the office of the Chief Mechanical Engineer (CME). This was a tiny low building with three rooms occupied by a goodly number of Indian and African clerical staff. The Chief Mechanical Engineer had a fairly large room and the ACME also had a room to him self but this was so crowded with papers, books, files and all kinds of mechanical parts that he always had difficulty in entering his office. This was the head office of the department of which I was to be Chief Clerk - I gaped in amazement, more so when I looked outside and noticed that the building had the foundry on one side, a maize mill and loco machine shop and smithy on the other side, a coach building shop in another direction and the station yard on the other side.
+
+And now for the Chief Mechanical Engineer, George Washington Chase. He was a temporary appointment and was due to return to Southern Rhodesia in a few months time. He displayed little interest in me and in fact indicated that the Indian clerks could do the job and didn't know why I had been recruited in London. To use an expression from my Army days I was "shaken steady".
+
+I was interviewed by Tony Allpress in the GM's office shortly after and he attempted to clear up my first impressions and I was asked to go back to CME's office and get on taking over from the head Indian clerk, Mr Mannikam. He and I were to become firm friends and our friendship lasted until his death more than 20 years later.
+
+So began my introduction to the mysteries of Railways expenditure accounting, salaries and wages, personnel recruitment and the like. Needless to say I finally learned to find my own way and where I couldn't I made my own way.
+
+.. figure:: Nicholas_Trataris.png
+    :alt: http://www.trataris.com/Nicholas_Trataris_Papou.htm
+    :width: 400px
+    :align: left
+
+    Credit: `http://www.trataris.com/Nicholas_Trataris_Papou.htm <http://www.trataris.com/Nicholas_Trataris_Papou.htm>`_
+
+At lunch time I dined at Limbe Hotel but Jerry Parham told me that he was unable to take me as a permanent table boarder and I had better make other arrangements immediately. This was a bit difficult as it was now Saturday afternoon and offices were closed for the weekend. I found a shop called the European Bakery run by a Greek named Nicholas Trataris and I bought tea, powdered milk, sugar, some
+apples and a cup. Armed with these James was able to keep me going over the week end until I got back to work on Monday.
+
+However on the Sunday morning I set off to walk to the only other hotel in Limbe. On the hot October morning, wearing my Bombay bowler which I had bought with the help of Mr Mannikam on Saturday, I found it to be located far out of town and looking less reputable even than the Limbe Hotel. It was obvious that this would not meet my case. I got back to my room about mid morning and began to write a letter to my wife back in the U.K.
+
+.. figure:: 5415295449_75b19e264e_z.jpg
+    :alt: https://www.flickr.com/photos/50755773@N06/5415295449
+    :width: 300px
+    :align: right
+
+    A Bombay bowler
+
+Whilst thus engaged I heard someone calling for me and found Roger Burrow-Wilkes, who had travelled out with me. He was to work in the Chief Accountant's (CA) Department and was temporarily being accommodated in very comfortable surroundings in the home of the CA and his wife. It turned out that Mr. and Mrs. Bryden, Stores Auditor who was part of the CA's Department were living in 3 rooms at the other end of house number 1 and we were invited to mid morning tea. So I began meeting some folk who wanted to be helpful and friendly and my hopes began to rise.
+
+We all discussed my plight and that of Roger who was to be allocated another room in House No. 1 and we were to share the "bath room" but we had no kitchen. Roger was due to move in next day, Monday. So it was that the Brydens and Roger and I came to an agreement that we could feed at the Brydens for all of our meals and that we would each pay them a small sum, I think it was something like £8.00 per month. This really solved the problem and helped us both to feel more settled but I must add that no thanks was due to the Management. This arrangement went on for approximately 2 months and we can never say how grateful we were to this couple for coming to our aid at that time.
+
+Monday morning came and I reported to the "office" to commence work at 07:30 hrs. I began my enquiries with Tony Allpress about the possibility of getting a Railway house and my wife's passage booked from U.K. It was then that I began to really get concerned. It appeared that no definite promise of housing was to be expected in the near future and therefore no passages could be booked.
+
+A large house would be vacant in November and Roger and I along with John Broughton-Thompson, who had travelled out with us and was working in the Traffic Department were to occupy it jointly and set up our own bachelor mess. It had 3 bedrooms, lounge,
+dining room, kitchen, bathroom and khonde [`porch/patio <https://www.indifferentlanguages.com/translate/chichewa-english/khonde>`_]. There were enough servants quarters to accommodate our personal servants, a cook and a gardener.
+
+I therefore began to make noises about the lack of suitable housing and after a couple of weeks with no hope looming up I put in my resignation and undertook to pay my fare back to UK. I was pretty desperate as all I could see was an indefinite period of separation from my wife and both of us living in circumstances which were quite unacceptable.
+
+The measure of my disappointment was surely to be seen in that I was ready to go back and endeavour to recoup our losses and start all over again in UK. I telegraphed Vera about this and she telegraphed back asking me to reconsider and expressed her willingness to wait. In the meantime it was obvious that Management, without "bowing to the pistol", were trying to make some better efforts.
+
+In this new events helped them in that a small 4 roomed K type house which was one of three built for senior Asian
+employees but which had been hitherto occupied by European employees was to be vacant in January 1948 and this would be allocated to me. My wife's passage could be booked if I withdrew my resignation which I did.
+
+With the way ahead now more clear I settled down to work with a will and I soon began to get into the swing of things, to learn the language of Railways and I was more encouraged when I learned that Ernest Hudson from the Indian Railways was to take over as the new CME in 1948.
+
+I began ordering furniture to be made to my specification and buying things from Auction sales and from private sales in order to have a reasonably furnished house when Vera would arrive. I was able to do this because I had transferred £300.00 from UK to `Barclays DCO <https://en.wikipedia.org/wiki/Barclays#1900_to_1945>`_ in Limbe. This was almost our entire savings which in those days was not an inconsiderable sum.
+
+November soon came around and towards the end of that month the three of us moved to No 16 house where we set up the bachelor mess but we would always remain thankful to the Brydens for having taken care of us in those very early days. No 16 was quite spacious and I was able to take delivery of some of my furniture and it was in mid January 1948 that I moved out of there to K type No 5 to start getting ready, with considerable excitement, for the arrival of my wife.
+
+It was at this time that James left me but I took all four servants from the departing occupant of K5. These consisted of Moses, house boy, Wille, cook, Mattiyassi, kitchen boy and a garden boy whose name I cannot recall. They turned out to be a good crew and set to in helping me to clean up the place and get it ready for the great day. They were happy to have the new uniforms which I provided and helped me put up curtains etc.
+
+I found the cook to be quite a good one at his job and before I set off for Beira on the mail train (101 Down) on Sunday 18th January 1948 to meet Vera I gave them clear instructions as to what was expected when we returned on Friday 23rd January.  Willie was to do the marketing and have the evening meal ready on our return. Moses was to have the house shining and clean and to have the hot water cooked ready to pour into the galvanised bath tin for the dona's bath after the long dusty hot journey from Beira. Mattiyassi was to have a clean kitchen, plenty of firewood cut and water drawn, the garden boy to have our garden tidy and flowers cut for each
+room in the house. I never cease to be amazed when I recall that these orders were executed exactly as required and will always remember the pleasure this gave to my wife upon her arrival at her first home in Africa.
+
+It was during these days leading up to the final arrival of my wife that I had been making contacts in the area which was of much concern to me, namely church connections. I soon saw that I would have to attend the Church of Scotland Mission service at 1630 hours each Sunday. This was in Blantyre - sometimes I went and returned by bus. Sometimes I got a lift, cars were scarce in those days. I had made friends there and at Christmas I was invited to stay with a missionary couple for two days, it was most enjoyable.
+
+It was here that I met a single lady missionary named Mary Caverhill who was a nurse and hailed from U.K. She was keenly evangelical and it was hoped that when my wife arrived the three of us would have fellowship and this did in fact transpire. She and Vera became very good friends and she was instrumental in helping Vera to settle down quickly and get into some useful Christian service. We must remember that Vera had never been out of U.K. before this and had led a very sheltered life.
+
+Sunday 18 January 1948 saw me leaving on 101 Down for Beira. It was a hot humid day and conditions got worse as we headed south to the plains of the Shire and Zambesi rivers and next morning we steamed into Beira where it was very sticky. I booked into the Savoy Hotel, run in those days by the Rhodesia Railways and there I sweltered Monday, Tuesday and Wednesday just filling in time. At 7:30 am on Thursday 22nd January the train from Rhodesia arrived in Beira and it was very exciting to see Vera step safely down from the coach after having travelled by Durban Castle (Union Castle Mailboat) to Cape Town thence by train up to Bulawayo, Salisbury, Umtali and now by overnight train to Beira.
+
+Her first remarks concerned the temperature and I wasn't surprised. I tried to explain to her that it was not so hot in Limbe. A taxi took us and her luggage to the Savoy Hotel and we were soon settled down to a breakfast which was very enjoyable and very satisfying, After post war Britain with food rationing this fare was quite amazing for her.
+
+During the morning we walked around Beira a little but it was very hot so we adjourned to the Emporium upstairs restaurant where, to her delight, they served morning tea with cream cakes. We had a good lunch at the hotel and in the evening we booked out and went up to the station to take up our reservations on 100 Up to Limbe and to see our luggage aboard. After dinner in the dining car, served
+by Charlie Sharman we retired to our compartment where our beds were made and mosquito nets down. Vera found mosquito nets unpleasant and the temperature rose as we descended to the Zambesi Valley.
+
+Early in the morning the Nyasaland Rail ways crew took over at Sena and when Sardar Mohamed, the conductor came to check our passes I introduced him to my wife. He said a few words of welcome to her and then informed her that ladies coming to Nyasaland usually gave birth to one child per year. I promptly told him that I thought he would be speaking for him self whereupon he just laughed and moved along the coach.
+
+And so the hot day drew on and the train began to climb the escarpment of the Shire Highlands and it became cooler as we progressed. Finally with the usual chorus of steam whistles from the two locomotives we drew into Limbe on time. It was always in those immediate post war years, quite amazing for a train to run to the timetable and not to the calendar.
+
+This was a different reception to mine a few months earlier. I had to introduce Vera to my Railway colleagues and wives who had turned out for the social occasion which the arrival of the mail train inspired. The Chief Accountant, Robert Steele and his wife brought their car and after having introduced Vera to our house boy who had come to assist, we were driven to our little home in K5. The Steeles left us there and I took Vera into our house and as she looked around and met the servants I could sense that she was happy and would adjust to the shortcomings, such as "thunder box" toilets, tin baths, well water etc etc.
+
+After unpacking and bathing we were told that dinner was ready and we two sat in lonely state in the dining room and enjoyed a well cooked and prepared meal which was well served. Her pleasure and happiness were unmistakeable and I began to relax now. We walked out on to the khonde and she remarked that it was much cooler than Beira - I was able to say "I told you it would be so". And it was then that I began to take it in that we had now come to the point where the building of our new life was to begin and that adjustments would have to be made in the days ahead.
 
 Chapter 4: Beginning at Last
 =======================================
