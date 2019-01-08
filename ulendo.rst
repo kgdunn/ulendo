@@ -257,7 +257,7 @@ However on the Sunday morning I set off to walk to the only other hotel in Limbe
     :width: 300px
     :align: right
 
-    A Bombay bowler
+    A Bombay bowler [`photo credit <https://www.flickr.com/photos/50755773@N06/5415295449>`__]
 
 Whilst thus engaged I heard someone calling for me and found Roger Burrow-Wilkes, who had travelled out with me. He was to work in the Chief Accountant's (CA) Department and was temporarily being accommodated in very comfortable surroundings in the home of the CA and his wife. It turned out that Mr. and Mrs. Bryden, Stores Auditor who was part of the CA's Department were living in 3 rooms at the other end of house number 1 and we were invited to mid morning tea. So I began meeting some folk who wanted to be helpful and friendly and my hopes began to rise.
 
@@ -300,6 +300,14 @@ by Charlie Sharman we retired to our compartment where our beds were made and mo
 Early in the morning the Nyasaland Rail ways crew took over at Sena and when Sardar Mohamed, the conductor came to check our passes I introduced him to my wife. He said a few words of welcome to her and then informed her that ladies coming to Nyasaland usually gave birth to one child per year. I promptly told him that I thought he would be speaking for him self whereupon he just laughed and moved along the coach.
 
 And so the hot day drew on and the train began to climb the escarpment of the Shire Highlands and it became cooler as we progressed. Finally with the usual chorus of steam whistles from the two locomotives we drew into Limbe on time. It was always in those immediate post war years, quite amazing for a train to run to the timetable and not to the calendar.
+
+.. figure:: 675px-Commode,_Europe,_1831-1900_Wellcome_L0057869.jpg
+    :alt: https://en.wikipedia.org/wiki/Portable_toilet#/media/File:Commode,_Europe,_1831-1900_Wellcome_L0057869.jpg
+    :align: right
+    :width: 300px
+
+    A 19th century "thunderbox" portable toilet [`Photo credit <https://wellcomecollection.org/works/murkgv97>`__]
+
 
 This was a different reception to mine a few months earlier. I had to introduce Vera to my Railway colleagues and wives who had turned out for the social occasion which the arrival of the mail train inspired. The Chief Accountant, Robert Steele and his wife brought their car and after having introduced Vera to our house boy who had come to assist, we were driven to our little home in K5. The Steeles left us there and I took Vera into our house and as she looked around and met the servants I could sense that she was happy and would adjust to the shortcomings, such as "thunder box" toilets, tin baths, well water etc etc.
 
